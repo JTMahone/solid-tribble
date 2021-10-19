@@ -1,0 +1,46 @@
+@charset "utf-8";
+body{
+	padding:0;
+	margin:0;
+}
+img{
+	position:absolute;
+}
+.homepageBG{
+	
+}
+.homepageAF{
+	left:19px;
+	top:337px;
+}
+.homepageTB{
+	left:19px;
+	top:25px;
+}
+.homepageB1{
+	left:19px;
+	top:219px;
+}
+.homepageB2{
+	left:272px;
+	top:218px;
+}
+.homepageB3{
+	left:532px;
+	top:218px;
+}
+.homepageB4{
+	left:458px;
+	top:424px;
+}
+.homepageAV{
+	left:41px;
+	top:360px;
+}
+.errorpageBG{
+
+}
+.errorpageSB{
+	left:290px;
+	top:326px;
+}
